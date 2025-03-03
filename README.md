@@ -1,4 +1,4 @@
-<img src="https://infimg.com/bimg/2016/09/introduccion-python-principantes.jpg" alt="Logo de GitHub" width="600" height="100">
+<img src="https://blog.rdiez.es/p/python-10-bucles-for-/-while/python-banner_hu3424164933478749944.jpg" alt="Logo de GitHub" width="600" height="100">
 Contenido de la Competencia de Algoritmos con Python - SENA para el Programa de ADSO
 
 **Autor:** Alvaro Pérez N
