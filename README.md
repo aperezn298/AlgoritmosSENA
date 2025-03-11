@@ -18,3 +18,4 @@ Contenido de la Competencia de Algoritmos con Python - SENA para el Programa de 
     3. [Estructuras Control](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/03EstructurasControl.pdf)
 4. Colecciones de Datos
     1. [Listas](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/04ColeccionLista.pdf)
+    2. [Tuplas](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/05ColeccionTupla.pdf)
