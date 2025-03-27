@@ -21,3 +21,5 @@ Contenido de la Competencia de Algoritmos con Python - SENA para el Programa de 
     1. [Listas](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/04ColeccionLista.pdf)
     2. [Tuplas](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/05ColeccionTupla.pdf)
     3. [Diccionarios](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/06ColeccionDiccionario.pdf)
+5. Funciones
+    1. [Funciones](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/08Funciones.pdf)
