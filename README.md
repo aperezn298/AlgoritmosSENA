@@ -25,3 +25,5 @@ Contenido de la Competencia de Algoritmos con Python - SENA para el Programa de 
     1. [try-except](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/07Excepciones.pdf)
 6. Funciones
     1. [Funciones](https://github.com/aperezn298/AlgoritmosSENA/blob/main/03_MaterialApoyo/08Funciones.pdf)
+7. Ejercicios de Entrenamiento
+    1. [Primer ejercicio](https://github.com/aperezn298/AlgoritmosSENA/blob/main/04_EjerciciosEntrenamiento/EjercicioRepaso.pdf)
