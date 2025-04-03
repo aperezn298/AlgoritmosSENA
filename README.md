@@ -28,3 +28,4 @@ Contenido de la Competencia de Algoritmos con Python - SENA para el Programa de 
 7. Ejercicios de Entrenamiento
     1. [Biblioteca](https://github.com/aperezn298/AlgoritmosSENA/blob/main/04_EjerciciosEntrenamiento/EjercicioRepasoV01.pdf)
     2. [Bancario](https://github.com/aperezn298/AlgoritmosSENA/blob/main/04_EjerciciosEntrenamiento/EjercicioRepasoV02.pdf)
+    3. [Supermercado](https://github.com/aperezn298/AlgoritmosSENA/blob/main/04_EjerciciosEntrenamiento/EjercicioRepasoV03.pdf)
