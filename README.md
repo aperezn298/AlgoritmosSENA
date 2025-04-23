@@ -31,4 +31,5 @@ Contenido de la Competencia de Algoritmos con Python - SENA para el Programa de 
     3. [Supermercado](https://github.com/aperezn298/AlgoritmosSENA/blob/main/04_EjerciciosEntrenamiento/EjercicioRepasoV03.pdf)
 8. Proyecto Final
     1. [Mascotas](https://github.com/aperezn298/AlgoritmosSENA/blob/main/05_ProyectoFinal/ProyectoFinalUno.pdf)
-    1. [Financiero](https://github.com/aperezn298/AlgoritmosSENA/blob/main/05_ProyectoFinal/ProyectoFinalDos.pdf)
+    2. [Financiero](https://github.com/aperezn298/AlgoritmosSENA/blob/main/05_ProyectoFinal/ProyectoFinalDos.pdf)
+    3. [Escuela](https://github.com/aperezn298/AlgoritmosSENA/blob/main/05_ProyectoFinal/ProyectoFinalTres.pdf)
